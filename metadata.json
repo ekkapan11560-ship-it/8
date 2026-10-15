@@ -1,0 +1,8 @@
+{
+  "name": "AI Studio Applet 8",
+  "description": "The fastest path from prompt to production with Gemini. Applet starter and migration hub for ekkapan11560-ship-it/8.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
